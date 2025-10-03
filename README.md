@@ -1,7 +1,5 @@
 # AltunTun
 
-![AltunTun logo banner](./banner.png)
-
 **AltunTun** is an implementation of the [WireGuard®](https://www.wireguard.com/) protocol, and consists of two parts:
 
 * The executable `altuntun-cli`, a [userspace WireGuard](https://www.wireguard.com/xplatform/) implementation for Linux and macOS.

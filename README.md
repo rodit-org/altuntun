@@ -19,9 +19,7 @@ I created altuntun using boringtun as a starting point, and I found boringtun to
 
 * I refactored the name of many variables for readability.
 * Applied outstanding PRs to add namespaces, improve default performance, and fix the spurious re-keying bug
-Most dependencies have been updated except:
-* clap
-* base64::encode
+* Most dependencies have been updated except clap and base64::encode
 
 ## Improvements pending
 
